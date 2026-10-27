@@ -4,6 +4,8 @@ Queen’s High-Performance Computing Club (QHPC) is Queen’s first student supe
 
 High-performance computing brings powerful systems together to solve problems that are too large, slow, or complex for a typical computer - from scientific simulations and weather forecasting to AI and machine learning.
 
+This year marks QHPC’s second year since EngSoc ratification. We’re expanding our technical programming, developing new project and research opportunities, and exploring participation in external HPC competitions, conferences, and training programs.
+
 ## What we explore
 
 Through workshops, collaborative projects, and research members build practical skills in:
@@ -12,9 +14,14 @@ Through workshops, collaborative projects, and research members build practical 
 - Parallel programming, GPUs, and performance optimization.
 - Scientific computing, simulation, and AI/ML.
 
-## QHPC in 2026-27
+## Our GitHub Organization
 
-This year marks QHPC’s second year since EngSoc ratification. We’re expanding our technical programming, developing new project and research opportunities, and exploring participation in external HPC competitions, conferences, and training programs.
+Explore the resources behind our workshops, hands-on activities, and student project ideas.
+
+| Explore | What you’ll find |
+| --- | --- |
+| [Meetings and activities](https://github.com/Queen-s-High-Performance-Computing/qhpc-meetings) | Short guides, sample code, and practical tasks to work through during meetings or at your own pace. |
+| [Projects and research](https://github.com/Queen-s-High-Performance-Computing/qhpc-research) | Research proposals and supporting material for exploring new project ideas. |
 
 ## Get involved
 
